@@ -1,0 +1,11 @@
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\bin\Debug\Text-to-speech project by PT.exe.config
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\bin\Debug\Text-to-speech project by PT.exe
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\bin\Debug\Text-to-speech project by PT.pdb
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\obj\Debug\Text-to-speech project by PT.csproj.AssemblyReference.cache
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\obj\Debug\Text-to-speech project by PT.csproj.SuggestedBindingRedirects.cache
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\obj\Debug\Text_to_speech_project_by_PT.Form1.resources
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\obj\Debug\Text_to_speech_project_by_PT.Properties.Resources.resources
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\obj\Debug\Text-to-speech project by PT.csproj.GenerateResource.cache
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\obj\Debug\Text-to-speech project by PT.csproj.CoreCompileInputs.cache
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\obj\Debug\Text-to-speech project by PT.exe
+C:\Users\64279\OneDrive\Desktop\C#\Text-to-speech project by PT\Text-to-speech project by PT\obj\Debug\Text-to-speech project by PT.pdb
